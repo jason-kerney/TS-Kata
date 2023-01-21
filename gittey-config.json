@@ -27,6 +27,10 @@
             "name": "test",
             "command": "cls; ts-node node_modules/jasmine/bin/jasmine JASMINE_CONFIG_PATH=./jasmine.json && gittey commit",
             "description": "runs tests and commits on success"
+        },
+        {
+            "name": "push",
+            "command": "cls; git push"
         }
     ],
     "collaborators": []
