@@ -1,0 +1,1 @@
+export const note = "This is the directory to put your source";
