@@ -27,6 +27,10 @@
             "name": "push",
             "command": "cls; git push",
             "description": "performs a git push"
+        },
+        {
+            "name": "test",
+            "command": "cls; npm test && gittey commit"
         }
     ],
     "collaborators": []
