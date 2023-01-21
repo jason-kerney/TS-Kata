@@ -1,0 +1,34 @@
+{
+  "name": "ts-kata",
+  "version": "1.0.0",
+  "description": "A starting place to do TypeScript Katas",
+  "main": "index.js",
+  "scripts": {
+    "precompile": "rimraf app/**/*.js test/**/*.js",
+    "compile": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jason-kerney/TS-Kata.git"
+  },
+  "keywords": [
+    "TypeScript;",
+    "Kata;",
+    "Template"
+  ],
+  "author": "Jason-Kerney",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jason-kerney/TS-Kata/issues"
+  },
+  "homepage": "https://github.com/jason-kerney/TS-Kata#readme",
+  "devDependencies": {
+    "@types/node": "^16.11.7",
+    "nyc": "^15.1.0",
+    "rimraf": "~3.0.2",
+    "source-map-support": "^0.5.20",
+    "ts-node": "^10.4.0",
+    "tsconfig-paths": "^3.11.0",
+    "typescript": "^4.4.4"
+  }
+}

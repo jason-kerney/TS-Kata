@@ -1,0 +1,22 @@
+{
+    "branchPrefix": {
+        "separator": "",
+        "validator": "",
+        "prefixes": {}
+    },
+    "commitPrefix": {
+        "separator": " ",
+        "validator": "^.{1,45}$",
+        "prefixes": {
+            "***": "Does not compile -- intermediate step",
+            "R": "Refactored on passing tests",
+            "R!!": "Refactored on non-passing tests",
+            "F": "Added new feature test first",
+            "F!!": "Added new feature without tests",
+            "*": "Other"
+        }
+    },
+    "verboseMode": false,
+    "aliases": [],
+    "collaborators": []
+}
