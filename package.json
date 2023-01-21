@@ -23,7 +23,11 @@
   },
   "homepage": "https://github.com/jason-kerney/TS-Kata#readme",
   "devDependencies": {
+    "@types/jasmine": "^4.3.1",
     "@types/node": "^16.11.7",
+    "jasmine": "^4.5.0",
+    "jasmine-spec-reporter": "^7.0.0",
+    "jasmine-ts": "^0.4.0",
     "nyc": "^15.1.0",
     "rimraf": "~3.0.2",
     "source-map-support": "^0.5.20",
