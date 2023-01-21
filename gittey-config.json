@@ -17,6 +17,11 @@
         }
     },
     "verboseMode": false,
-    "aliases": [],
+    "aliases": [
+        {
+            "name": "undo",
+            "command": "cls; git clean -xfd && git checkout ."
+        }
+    ],
     "collaborators": []
 }
