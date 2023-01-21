@@ -20,7 +20,13 @@
     "aliases": [
         {
             "name": "undo",
-            "command": "cls; git clean -xfd && git checkout ."
+            "command": "cls; git clean -xfd && git checkout .",
+            "description": "resets branch to last checked in state"
+        },
+        {
+            "name": "push",
+            "command": "cls; git push",
+            "description": "performs a git push"
         }
     ],
     "collaborators": []
