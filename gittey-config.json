@@ -30,7 +30,13 @@
         },
         {
             "name": "test",
-            "command": "cls; npm test && gittey commit"
+            "command": "cls; npm test && gittey commit",
+            "description": "runs tests and commits them if the tests pass"
+        },
+        {
+            "name": "docs",
+            "command": "cls; booklisp ./docs/_main.md ./readme.md",
+            "description": "if booklisp is installed as a global package then this will regenerate the readme"
         }
     ],
     "collaborators": []
