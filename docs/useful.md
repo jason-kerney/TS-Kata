@@ -11,7 +11,7 @@ To install:
 
 `npm i -g gittey`
 
-### Useful aliases
+### Useful commands
 
 #### To run the tests
 
@@ -30,3 +30,9 @@ This will commit code with prompts, including message.
 `gittey undo`
 
 This will reset the directory to the last commit
+
+#### To checkout a different branch
+
+`gittey checkout`
+
+Lets you choose which branch to checkout via selection list.
