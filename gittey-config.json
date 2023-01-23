@@ -30,7 +30,7 @@
         },
         {
             "name": "push",
-            "command": "cls; git push"
+            "command": "cls; gittey commit && git push"
         }
     ],
     "collaborators": []
