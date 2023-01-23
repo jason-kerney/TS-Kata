@@ -6,6 +6,7 @@
 (table-of-contents
     (section-main "./purpose.md")
     (section-main "./how.md")
+    (section-main "./useful.md")
     (section-main "./contrib.md")
 )
 /bl-->

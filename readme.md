@@ -7,7 +7,8 @@
 
 - [Section 1: Purpose](#user-content-purpose)
 - [Section 2: How to use this project](#user-content-how-to-use-this-project)
-- [Section 3: Contributors ✨](#user-content-contributors-)
+- [Section 3: Useful Tool](#user-content-useful-tool)
+- [Section 4: Contributors ✨](#user-content-contributors-)
 
 ## Purpose ##
 
@@ -25,6 +26,37 @@ So this project allows for a quick setup of various test environment by providin
 TS-Kata is designed to be your template, not a template generator. The way you use it, is there is a branch for each supported test framework. You switch your branch and then delete the .git folder and start over.
 
 **NOTE:** This readme will also change to give you information on how to run each test framework.
+    
+
+## Useful Tool ##
+
+The templates provided through this project are designed to utilizes [gittey](https://www.npmjs.com/package/gittey) to make things easier. Gittey is not required but useful.
+
+Gittey is a command runner with understanding of git.
+
+To install:
+
+`npm i -g gittey`
+
+### Useful aliases
+
+#### To run the tests
+
+`gittey test`
+
+This will run tests and commit the code if the tests pass
+
+#### To commit code
+
+`gittey commit`
+
+This will commit code with prompts, including message.
+
+#### To undo current work
+
+`gittey undo`
+
+This will reset the directory to the last commit
     
 
 ## Contributors ✨ ##
