@@ -8,11 +8,11 @@
 - [Section 1: Purpose](#user-content-purpose)
 - [Section 2: How to use this project](#user-content-how-to-use-this-project)
 - [Section 3: Useful Tool](#user-content-useful-tool)
-- [Section 4: Contributors ✨](#user-content-contributors-)
+- [Section 4: Contributors ✨](#user-content-contributors-✨)
 
 ## Purpose ##
 
-This provides a template for doing katas in TypeScript using Mocha.
+This provides a template for doing katas in TypeScript using Jasmine.
     
 
 ## How to use this project ##
