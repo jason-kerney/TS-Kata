@@ -20,7 +20,7 @@
     "aliases": [
         {
             "name": "undo",
-            "command": "cls; git clean -xfd && git checkout .",
+            "command": "cls; git clean -xfd && git checkout . && npm i",
             "description": "resets branch to last checked in state"
         },
         {
