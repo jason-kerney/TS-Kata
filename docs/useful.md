@@ -11,7 +11,7 @@ To install:
 
 `npm i -g gittey`
 
-### Useful aliases
+### Useful commands
 
 #### To run the tests
 

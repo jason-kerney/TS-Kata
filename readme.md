@@ -8,7 +8,7 @@
 - [Section 1: Purpose](#user-content-purpose)
 - [Section 2: How to use this project](#user-content-how-to-use-this-project)
 - [Section 3: Useful Tool](#user-content-useful-tool)
-- [Section 4: Contributors ✨](#user-content-contributors-✨)
+- [Section 4: Contributors ✨](#user-content-contributors-)
 
 ## Purpose ##
 
@@ -35,7 +35,7 @@ To install:
 
 `npm i -g gittey`
 
-### Useful aliases
+### Useful commands
 
 #### To run the tests
 
