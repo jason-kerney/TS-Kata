@@ -7,7 +7,7 @@
 
 - [Section 1: Purpose](#user-content-purpose)
 - [Section 2: How to use this project](#user-content-how-to-use-this-project)
-- [Section 3: Contributors ✨](#user-content-contributors-✨)
+- [Section 3: Contributors ✨](#user-content-contributors-)
 
 ## Purpose ##
 
