@@ -24,6 +24,8 @@
   "homepage": "https://github.com/jason-kerney/TS-Kata#readme",
   "devDependencies": {
     "@types/node": "^16.11.7",
+    "all-contributors-cli": "^6.24.0",
+    "booklisp": "^2.0.0",
     "nyc": "^15.1.0",
     "rimraf": "~3.0.2",
     "source-map-support": "^0.5.20",
