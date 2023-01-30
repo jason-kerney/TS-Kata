@@ -8,12 +8,12 @@
         "separator": " ",
         "validator": "^.{1,45}$",
         "prefixes": {
-            "***": "Does not compile -- intermediate step",
-            "R": "Refactored on passing tests",
-            "R!!": "Refactored on non-passing tests",
-            "F": "Added new feature test first",
-            "F!!": "Added new feature without tests",
-            "*": "Other"
+            "feat:": "Feature work",
+            "fix:": "Bug fix",
+            "refactor:": "Refactoring",
+            "test:": "Test",
+            "chore:": "Chore",
+            "temp:": "Temporary holding, may not run"
         }
     },
     "verboseMode": false,
