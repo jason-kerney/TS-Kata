@@ -20,22 +20,22 @@
     "aliases": [
         {
             "name": "undo",
-            "command": "cls; git clean -xfd && git checkout . && npm i",
+            "command": "git clean -xfd && git checkout . && npm i",
             "description": "resets branch to last checked in state"
         },
         {
             "name": "push",
-            "command": "cls; gittey commit && git push",
+            "command": "gittey commit && git push",
             "description": "performs a git push"
         },
         {
             "name": "test",
-            "command": "cls; npm test && gittey commit",
+            "command": "npm test && gittey commit",
             "description": "runs tests on on success commits the code"
         },
         {
             "name": "docs",
-            "command": "cls; booklisp ./docs/_main.md ./readme.md",
+            "command": "booklisp ./docs/_main.md ./readme.md",
             "description": "if booklisp is installed as a global package then this will regenerate the readme"
         }
     ],
