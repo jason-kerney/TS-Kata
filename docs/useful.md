@@ -1,7 +1,4 @@
-<!--bl
-(filemeta
-    (title "Useful Tool"))
-/bl-->
+<!-- (dl (section-meta Useful Tool)) -->
 
 The templates provided through this project are designed to utilizes [gittey](https://www.npmjs.com/package/gittey) to make things easier. Gittey is not required but useful.
 

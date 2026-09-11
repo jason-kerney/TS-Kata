@@ -1,25 +1,30 @@
+<!-- GENERATED DOCUMENT DO NOT EDIT! -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
 
-<!-- GENERATED DOCUMENT! DO NOT EDIT! -->
+<!-- Compiled with doculisp https://www.npmjs.com/package/doculisp -->
+<!-- Written By: Jason Kerney -->
+
 # TS-Kata #
-#### A template for doing katas in TypeScript ####
+
+### A template for doing katas in TypeScript ###
 
 ## Table Of Contents ##
 
-- [Section 1: Purpose](#user-content-purpose)
-- [Section 2: How to use this project](#user-content-how-to-use-this-project)
-- [Section 3: Useful Tool](#user-content-useful-tool)
-- [Section 4: Contributors ✨](#user-content-contributors-)
+1. [Purpose](#purpose)
+2. [How to use this project](#how-to-use-this-project)
+3. [Useful Tool](#useful-tool)
+4. [Contributors ✨](#contributors-)
 
 ## Purpose ##
 
-### Problem Statement
+### Problem Statement ###
 
 I wanted a quick way to get started with a kata, particularly when introducing other developers to them. I found that the time taken to just get the initial setup up and running detracted from doing the kata.
 
-### Solution
+### Solution ###
 
 So this project allows for a quick setup of various test environment by providing multiple templates.
-    
 
 ## How to use this project ##
 
@@ -27,12 +32,11 @@ TS-Kata is designed to be your template, not a template generator. The way you u
 
 **NOTE:** This readme will also change to give you information on how to run each test framework.
 
-### Currently Supported
+### Currently Supported ###
 
 1. Mocha
 2. Jasmine
 3. Jest
-    
 
 ## Useful Tool ##
 
@@ -69,15 +73,11 @@ This will reset the directory to the last commit
 `gittey checkout`
 
 Lets you choose which branch to checkout via selection list.
-    
 
 ## Contributors ✨ ##
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
 <table>
   <tbody>
     <tr>
@@ -88,13 +88,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tbody>
 </table>
 
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+<!-- Written By: Jason Kerney -->
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
-    
-
-<!-- GENERATED DOCUMENT! DO NOT EDIT! -->
-    
+<!-- GENERATED DOCUMENT DO NOT EDIT! -->

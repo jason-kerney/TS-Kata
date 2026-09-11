@@ -1,12 +1,21 @@
-<!--bl
-(filemeta
-    (title "TS-Kata")
-    (subtitle "A template for doing katas in TypeScript"))
+<!-- (dl
+(section-meta
+    (title TS-Kata)
+    (subtitle A template for doing katas in TypeScript)
+    (author Jason Kerney)
+    (include
+        (Subsection ./purpose.md)
+        (Subsection ./how.md)
+        (Subsection ./useful.md)
+        (Subsection ./contrib.md)
+    ))
+) -->
 
-(table-of-contents
-    (section-main "./purpose.md")
-    (section-main "./how.md")
-    (section-main "./useful.md")
-    (section-main "./contrib.md")
+<!-- (dl 
+(content 
+    (toc 
+        (style numbered)
+        (label Table Of Contents)
+    )
 )
-/bl-->
+) -->
