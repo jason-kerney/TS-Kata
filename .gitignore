@@ -1,5 +1,6 @@
 node_modules/
 .node_modules/
+dist/
 built/*
 tests/cases/rwc/*
 tests/cases/test262/*
@@ -70,7 +71,6 @@ tests/cases/user/*/**/*.d.ts
 tests/baselines/reference/dt
 .failed-tests
 TEST-results.xml
-package-lock.json
 tests/cases/user/npm/npm
 tests/cases/user/TypeScript-React-Starter/TypeScript-React-Starter
 tests/cases/user/TypeScript-Node-Starter/TypeScript-Node-Starter

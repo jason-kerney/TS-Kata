@@ -2,10 +2,17 @@
   "name": "ts-kata",
   "version": "1.0.0",
   "description": "A starting place to do TypeScript Katas",
-  "main": "index.js",
+  "main": "dist/app/index.js",
   "scripts": {
-    "precompile": "rimraf app/**/*.js test/**/*.js",
+    "clean": "rimraf dist",
+    "precompile": "npm run clean",
     "compile": "tsc"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "overrides": {
+    "tmp": "^0.2.7"
   },
   "repository": {
     "type": "git",
@@ -23,14 +30,14 @@
   },
   "homepage": "https://github.com/jason-kerney/TS-Kata#readme",
   "devDependencies": {
-    "@types/node": "^16.11.7",
-    "all-contributors-cli": "^6.24.0",
+    "@types/node": "^22.20.2",
+    "all-contributors-cli": "^6.26.1",
     "booklisp": "^2.0.0",
-    "nyc": "^15.1.0",
-    "rimraf": "~3.0.2",
-    "source-map-support": "^0.5.20",
-    "ts-node": "^10.9.1",
-    "tsconfig-paths": "^3.11.0",
-    "typescript": "^4.4.4"
+    "nyc": "^18.0.0",
+    "rimraf": "^6.1.3",
+    "source-map-support": "^0.5.21",
+    "ts-node": "^10.9.2",
+    "tsconfig-paths": "^4.2.0",
+    "typescript": "^7.0.2"
   }
 }
