@@ -1,7 +1,4 @@
-<!--bl
-(filemeta
-    (title "How to use this project"))
-/bl-->
+<!-- (dl (section-meta How to use this project)) -->
 
 1. Delete the `.git` directory
 2. Run `git init`
