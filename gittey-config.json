@@ -35,7 +35,7 @@
         },
         {
             "name": "docs",
-            "command": "doculisp ./docs/_main.md ./readme.md",
+            "command": "doculisp ./docs/_main.dlisp ./readme.md",
             "description": "if doculisp is installed as a global package then this will regenerate the readme"
         }
     ],
