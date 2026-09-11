@@ -25,7 +25,7 @@
         },
         {
             "name": "test",
-            "command": "ts-node node_modules/jasmine/bin/jasmine JASMINE_CONFIG_PATH=./jasmine.json && gittey commit",
+            "command": "npm test && gittey commit",
             "description": "runs tests and commits on success"
         },
         {

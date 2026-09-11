@@ -4,9 +4,11 @@
   "description": "A starting place to do TypeScript Katas",
   "main": "index.js",
   "scripts": {
-    "precompile": "rimraf app/**/*.js test/**/*.js",
     "compile": "tsc",
-    "test": "ts-node node_modules/jasmine/bin/jasmine JASMINE_CONFIG_PATH=./jasmine.json"
+    "test": "jasmine --config=jasmine.json"
+  },
+  "engines": {
+    "node": "20 || >=22"
   },
   "repository": {
     "type": "git",
@@ -24,17 +26,11 @@
   },
   "homepage": "https://github.com/jason-kerney/TS-Kata#readme",
   "devDependencies": {
-    "@types/jasmine": "^4.3.1",
-    "@types/node": "^16.11.7",
-    "all-contributors-cli": "^6.24.0",
+    "@types/jasmine": "^6.0.0",
+    "@types/node": "^22.20.2",
     "booklisp": "^2.0.0",
-    "jasmine": "^4.5.0",
-    "jasmine-spec-reporter": "^7.0.0",
-    "nyc": "^15.1.0",
-    "rimraf": "~3.0.2",
-    "source-map-support": "^0.5.20",
-    "ts-node": "^10.9.1",
-    "tsconfig-paths": "^3.11.0",
-    "typescript": "^4.4.4"
+    "jasmine": "^7.0.0",
+    "tsx": "^4.23.13",
+    "typescript": "^7.0.2"
   }
 }
