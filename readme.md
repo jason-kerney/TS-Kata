@@ -1,19 +1,24 @@
+<!-- GENERATED DOCUMENT DO NOT EDIT! -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
 
-<!-- GENERATED DOCUMENT! DO NOT EDIT! -->
+<!-- Compiled with doculisp https://www.npmjs.com/package/doculisp -->
+<!-- Written By: Jason Kerney -->
+
 # TS-Kata #
-#### A template for doing katas in TypeScript ####
 
-## Table Of Contents ##
+### A template for doing katas in TypeScript ###
 
-- [Section 1: Purpose](#user-content-purpose)
-- [Section 2: How to use this project](#user-content-how-to-use-this-project)
-- [Section 3: Useful Tool](#user-content-useful-tool)
-- [Section 4: Contributors ✨](#user-content-contributors-)
+## Table of Contents ##
+
+1. [Purpose](#purpose)
+2. [How to use this project](#how-to-use-this-project)
+3. [Useful Tool](#useful-tool)
+4. [Contributors ✨](#contributors-)
 
 ## Purpose ##
 
 This provides a template for doing katas in TypeScript using Jasmine.
-    
 
 ## How to use this project ##
 
@@ -23,7 +28,6 @@ This provides a template for doing katas in TypeScript using Jasmine.
 4. Run the tests
    1. `gittey test` if you are using gittey
    2. `npm test` if you are not using gittey
-    
 
 ## Useful Tool ##
 
@@ -35,34 +39,30 @@ To install:
 
 `npm i -g gittey`
 
-### Useful commands
+### Useful commands ###
 
-#### To run the tests
+#### To run the tests ####
 
 `gittey test`
 
 This will run tests and commit the code if the tests pass
 
-#### To commit code
+#### To commit code ####
 
 `gittey commit`
 
 This will commit code with prompts, including message.
 
-#### To undo current work
+#### To undo current work ####
 
 `gittey undo`
 
 This will reset the directory to the last commit
-    
 
 ## Contributors ✨ ##
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
 <table>
   <tbody>
     <tr>
@@ -73,13 +73,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tbody>
 </table>
 
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+<!-- Written By: Jason Kerney -->
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
-    
-
-<!-- GENERATED DOCUMENT! DO NOT EDIT! -->
-    
+<!-- GENERATED DOCUMENT DO NOT EDIT! -->
